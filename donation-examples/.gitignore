@@ -1,0 +1,15 @@
+# Rust
+**/target
+**/Cargo.lock
+
+# TypeScript
+**/package-lock.json
+**/node_modules
+**/build/
+**/yarn.lock
+**/.tsimp
+
+# Frontend
+**/dist
+**/.next
+**/.parcel-cache
